@@ -4,5 +4,5 @@
 
 crypto currency price checking app.
 
-![Finished App](https://github.com/PruthviSooni/Bitcoin-Ticker/blob/master/Bitcoin-Ticker.gif =250x250)
+![Demo](https://github.com/PruthviSooni/Bitcoin-Ticker/blob/master/Bitcoin-Ticker.gif)
 
