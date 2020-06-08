@@ -4,5 +4,5 @@
 
 crypto currency price checking app.
 
-<img scr="Bitcoin-Ticker.gif" width="414" height="796">
+<img src="Bitcoin-Ticker.gif" width="414" height="796">
 
