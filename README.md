@@ -4,5 +4,5 @@
 
 crypto currency price checking app.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished App](https://github.com/PruthviSooni/Bitcoin-Ticker/blob/master/Bitcoin-Ticker.gif)
 
